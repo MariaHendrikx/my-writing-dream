@@ -39,8 +39,8 @@ def save_image(image_url, file_path):
         file.write(response.content)
 
 def generate_image_from_blogpost(output_folder, filename_blog):
-    path_blog = os.path.join(output_folder, filename_blog)
-    output_path = os.path.join(output_folder, filename_blog.replace('.md', '.png'))
+    path_blog = filename_blog
+    output_path = filename_blog.replace('.md', '.png')
 
     content_blog = read_blogpost(path_blog)
     prompt = "Generate an image-banner for the following blogpost, image should contain no texts or words: " + content_blog
