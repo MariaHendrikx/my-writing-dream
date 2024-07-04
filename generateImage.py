@@ -19,7 +19,7 @@ def generate_visual_prompt(content):
     model="gpt-3.5-turbo",
     messages=[
             {"role": "system", "content": "You are a helpful assistant that generates descriptive and visually engaging prompts for creating images with DALL-E."},
-            {"role": "user", "content": f"Generate a detailed and visually focused prompt for DALL-E to create an image based on the following blog content, emphasizing simplicity and clarity:\n\n{content}"}
+            {"role": "user", "content": f"Generate a detailed and visually focused prompt for DALL-E to create an image based on the following blog content, emphasizing simplicity, clarity and artistic style:\n\n{content}"}
         ]
 
     # messages=[
