@@ -14,17 +14,22 @@ openai.api_key = api_key
 output_folder = 'blogs'
 client = openai.OpenAI()
 
-def summarize_text(content):
+def generate_visual_prompt(content):
     completion = client.chat.completions.create(
     model="gpt-3.5-turbo",
     messages=[
-        {"role": "system", "content": "You are a helpful assistant that summarizes text to a prompt to generate an image with Dalle."},
-        {"role": "user", "content": "Summarize the following blogpost: " + content}
-    ]
+            {"role": "system", "content": "You are a helpful assistant that generates descriptive and visually engaging prompts for creating images with DALL-E."},
+            {"role": "user", "content": f"Generate a detailed and visually focused prompt for DALL-E to create an image based on the following blog content, emphasizing simplicity and clarity:\n\n{content}"}
+        ]
+
+    # messages=[
+    #     {"role": "system", "content": "You are a helpful assistant that generates descriptive and visually engaging prompts for creating images with DALL-E."},
+    #     {"role": "user", "content": f"Generate a detailed and descriptive prompt for DALL-E to create an image based on the following blog content:\n\n{content}"}
+    # ]
     )
 
     summarized_text = completion.choices[0].message.content
-    
+
     return summarized_text
 
 def generate_image(prompt):
@@ -55,9 +60,9 @@ def generate_image_from_blogpost(output_folder, filename_blog):
     output_path = filename_blog.replace('.md', '.png')
 
     content_blog = read_blogpost(path_blog)
-    summarized_text = summarize_text(content_blog)
+    summarized_text = generate_visual_prompt(content_blog)
 
-    prompt = "Generate an image-banner for the following blogpost, image should contain no texts or words: " + summarized_text
+    prompt = "" + summarized_text
     print("prompt for Dall-e: \n\n" + prompt)
     image_url = generate_image(prompt)
     print(image_url)

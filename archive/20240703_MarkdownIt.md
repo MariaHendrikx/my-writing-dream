@@ -1,5 +1,11 @@
 
-# How does MarkdownIt handle parsin?
+# How does MarkdownIt handle parsing?
+
+This blog I used as a notebook to understand better how the parsing for Markdown is implemented in existing libraries, such as MarkdownIt. I used ChatGPT and Github Copilot to explain certain code blocks for me, and I think that after doing that, I understood how it was done by [markdown-it](https://github.com/markdown-it/markdown-it).
+
+So. Markdown-it initializes first everything. And when calling the function parse, it creates a new state. It then loops over the rules and checks if the state is compliant with it.
+
+# ChatGPT and Github Copilot's answers
 
 `MarkdownIt` would tokenize it into the following.
 
