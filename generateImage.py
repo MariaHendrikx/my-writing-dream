@@ -18,7 +18,7 @@ def generate_visual_prompt(content):
     completion = client.chat.completions.create(
     model="gpt-3.5-turbo",
     messages=[
-            {"role": "system", "content": "You are a creative assistant that crafts concise and visually engaging prompts for generating minimalist and uncluttered style images with an isolated subject with DALL-E."},
+            {"role": "system", "content": "You are a creative assistant that crafts concise and visually engaging prompts for generating minimalist, uncluttered and colourful style images with an isolated subject with DALL-E."},
             {"role": "user", "content": f"Generate a visually focused and descriptive prompt for DALL-E to visualize the main idea of the following content:\n\n{content}"}
         ]
 
