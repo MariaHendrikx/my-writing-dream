@@ -4,7 +4,7 @@ So.. In the previous blog post I asked ChatGPT about the relationship between Mu
 
 Also, fun fact... I studied Latin-Mathematics (8h) in high school, which meant we had to write an essay about mathematics as final project. We could choose the topic, but it had to be related to mathematics. Since, at the time, I had chosen to go study music performance, I did mine about the relationship between music and mathematics!
 
-Just in case you are curious, you can read it here: [Muziek en Wiskunde - Scriptie](URL)
+Just in case you are curious, you can read it here: [Muziek en Wiskunde - Scriptie](https://raw.githubusercontent.com/MariaHendrikx/my-writing-dream/14fe09f400b062f244ae04041c7cc6dab322c007/assets/20240709_MusicAndMaths/62_MariaHendrikx_Scriptie%20-%20Muziek%20en%20Wiskunde.pdf)
 -- It's in Dutch and it was written in my last year of high school!
 
 but ok, here is ChatGPT's version :D
