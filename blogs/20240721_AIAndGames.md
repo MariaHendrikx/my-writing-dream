@@ -7,3 +7,5 @@ So.. Today I want to cross of my todo of making some simple code to play some si
 Video I will base myself on: https://www.youtube.com/watch?v=CI3FRsSAa_U&ab_channel=Chrispresso
 
 # Alright... Let's code!
+
+(Alright.. So I decided it was a waste of time for some random reason): still planning on implementing it one day though :)
