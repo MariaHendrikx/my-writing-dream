@@ -9,7 +9,7 @@ One of the rules I set was no phone use between 7:00 AM and 8:00 PM. Surprisingl
 
 <div style="text-align: center;">
     <figure>
-        <img src="https://github.com/MariaHendrikx/my-writing-dream/blob/main/assets/20240831_Reflection/20240831_week_overview.jpg?raw=true" alt="Week Overview" width="200"/>
+        <img src="https://github.com/MariaHendrikx/my-writing-dream/blob/main/assets/20240831_Reflection/20240831_week_overview.jpg?raw=true" alt="Week Overview" height="800"/>
         <figcaption>Week Overview, Captured with Boosted.</figcaption>
     </figure>
 </div>
