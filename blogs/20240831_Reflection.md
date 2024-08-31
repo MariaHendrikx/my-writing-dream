@@ -6,6 +6,14 @@ A week ago, I embarked on a challenge to boost my productivity, and I'm excited 
 
 One of the rules I set was no phone use between 7:00 AM and 8:00 PM. Surprisingly, this worked well. It helped me focus less on what others were doing and more on my tasks. Plus, it was nice to catch up socially after 8:00 PM. However, I realized that starting my downtime at 8:00 PM didn’t leave me much time to truly unwind before everything shut down at 10:30 PM. I often felt rushed, especially if I wanted to watch a movie or relax.
 
+
+<div style="text-align: center;">
+    <figure>
+        <img src="https://github.com/MariaHendrikx/my-writing-dream/blob/main/assets/20240831_Reflection/20240831_week_overview.jpg?raw=true" alt="Week Overview" width="200"/>
+        <figcaption>Week Overview, Captured with Boosted.</figcaption>
+    </figure>
+</div>
+
 So, I’m considering tweaking this rule. Instead of 7:00 AM to 8:00 PM, I’m thinking of shifting it to 8:00 AM to 7:00 PM. This way, I can have a bit more breathing room in the evening. If I still feel stressed this week, I might adjust it further to 6:00 PM. 
 
 ### A Look Back at My Week
@@ -30,7 +38,6 @@ What I should do every day:
 - Work for at least 2 sessions of 2 hours each on my app.
 ```
 
-![Week Overview](https://github.com/MariaHendrikx/my-writing-dream/tree/main/assets/20240831_Reflection/20240831_week_overview.jpg)
 
 Looking at my week overview, I’d say I pretty much nailed it! But as I reflect on how things went, I see some room for improvement for the coming week.
 
