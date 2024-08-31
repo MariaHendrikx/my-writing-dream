@@ -53,6 +53,7 @@ So, how will I tackle this week? Here are my updated rules:
 
 - **During the Day Rules:**
     - No phone between 8:30 AM and 7:00 PM.
+    - No Youtube between 8:30 AM and 7:00 PM.
     - Relax after 7:00 PM.
     - Work at least 2x2 hours on the app.
     - Do 10 push-ups at some point during the day and log it.
@@ -61,5 +62,7 @@ So, how will I tackle this week? Here are my updated rules:
     - Start before 10:00 AM.
     - Begin the day with coffee and breakfast.
 ```
+
+I have also set the above rules in the Cold Turkey App, and they will lift next friday at 4PM. Then I will reflect how these rules are good or bad for me. Youtube is allowed  to be used for 1 hour within the block period, just in case I really need it for some tutorial.
 
 I'm excited to see how these tweaks will help me find a better balance between productivity and relaxation. Here's to another week of fine-tuning the art of living well!
