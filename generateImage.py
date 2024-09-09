@@ -21,16 +21,6 @@ def generate_visual_prompt(content):
             {"role": "system", "content": "You are a creative assistant that crafts concise and visually engaging prompts for generating minimalist, uncluttered style images with an isolated subject with DALL-E."},
             {"role": "user", "content": f"Describe the following content in one sentence with max 7 words:\n\n{content}"}
         ]
-
-    # messages=[
-    #         {"role": "system", "content": "You are a helpful assistant that generates descriptive and visually engaging prompts for creating images with DALL-E."},
-    #         {"role": "user", "content": f"Generate a detailed and visually focused prompt for DALL-E to create an image based on the following blog content, emphasizing simplicity, clarity and artistic style:\n\n{content}"}
-    #     ]
-
-    # messages=[
-    #     {"role": "system", "content": "You are a helpful assistant that generates descriptive and visually engaging prompts for creating images with DALL-E."},
-    #     {"role": "user", "content": f"Generate a detailed and descriptive prompt for DALL-E to create an image based on the following blog content:\n\n{content}"}
-    # ]
     )
 
     summarized_text = completion.choices[0].message.content
