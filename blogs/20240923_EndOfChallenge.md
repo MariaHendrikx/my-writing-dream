@@ -42,7 +42,7 @@ Overall, this challenge had a positive impact on me. If you look at my GitHub co
 
 <div style="text-align: center;">
     <figure>
-        <img src="https://github.com/MariaHendrikx/my-writing-dream/blob/main/assets\20240923_EndOfChallenge\github23092024.png?raw=true" alt="Github Contributions 2024" height="800"/>
+        <img src="https://github.com/MariaHendrikx/my-writing-dream/blob/main/assets\20240923_EndOfChallenge\github23092024.png?raw=true" alt="Github Contributions 2024" height="100"/>
         <figcaption>GitHub Contributions 2024, captured on 23/09/2024</figcaption>
     </figure>
 </div>
