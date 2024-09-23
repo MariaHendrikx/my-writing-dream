@@ -40,7 +40,7 @@ What do I want to achieve after one month of doing this?
 
 Overall, this challenge had a positive impact on me. If you look at my GitHub contributions from this past month, you can clearly see a productivity spike compared to previous months. I’m incredibly proud of that.
 
-<div style="text-align: center;">
+<div style="text-align: center; margin: auto;">
     <figure>
         <img src="https://github.com/MariaHendrikx/my-writing-dream/blob/main/assets\20240923_EndOfChallenge\github23092024.png?raw=true" alt="Github Contributions 2024" height="100"/>
         <figcaption>GitHub Contributions 2024, captured on 23/09/2024</figcaption>
@@ -67,9 +67,9 @@ The **Toddler Stories app** is nearly finished. There are still a few details to
 
 The one area I didn’t fully stick to was the **"No initiating non-work-related messages"** rule. While I didn’t manage to eliminate all unnecessary communication, I did reduce it significantly, so I consider this a partial win.
 
-<div style="text-align: center;">
+<div style="text-align: center; margin: auto;">
     <figure>
-        <img src="https://github.com/MariaHendrikx/my-writing-dream/blob/main/assets/20240923_EndOfChallenge/reports_booster.jpeg?raw=true" alt="Week Overview" height="800"/>
+        <img src="https://github.com/MariaHendrikx/my-writing-dream/blob/main/assets/20240923_EndOfChallenge/reports_booster.jpeg?raw=true" alt="Week Overview" width="300"/>
         <figcaption>Week Overview, Captured with Boosted.</figcaption>
     </figure>
 </div>
