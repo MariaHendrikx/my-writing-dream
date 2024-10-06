@@ -15,8 +15,6 @@ As I look back, I realize that Toddler Stories is actually just a product of wha
 
 Another topic central to both my work and my life is minimalism. It’s interesting to see how this philosophy has guided my design choices, both in my products and in my personal branding.
 
-When I first started my company, I named it "RedAndWhiteApps"—a name inspired by simplicity. I wanted my apps to have a distinct, minimalistic design using just two colors: red and white. This was a conscious decision to reduce excess and create something that stands out without being overwhelming. It was, in a sense, my early exploration into minimalism.
-
 Another topic that is quite central in my design of the product I want to create is minimalism. The name of my first company was "RedAndWhiteApps", and I feel like this was a runner-up to the minimalism I am thriving now for in my apps. Because, RedAndWhiteApps tells you that it will use two colors only: the color red, and white. It reduces excess and creates something that stands out without being overwhelming. It was, in a sense, my early exploration into minimalism.
 
 However, now that I am redoing my company, I want a bit more freedom and the name "RedAndWhiteApps" does limit me a little bit. Which is why I want to change the name to something more broad and that captures really what I actually want: minimalism! -- I am still searching for a name btw.
