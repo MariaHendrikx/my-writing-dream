@@ -8,7 +8,7 @@ Currently, I'm working on AI Toddler Stories, and it has made me reflect on why 
 
 This journey has also shown me that my passion lies in storytelling, and I see myself continuing in this direction long-term. Whether it's through AI Toddler Stories, another app, or even exploring new creative formats, the chance is high I will expand on this theme.
 
-As I look back, I realize that Toddler Stories is actually just a product of what I like in general: the desire of storytelling. You sometimes read these "I always wanted to be ... since a child". Well. I wanted to be a writer as a child. To this day, I still want to be a writer, though I don't want not pursue writing full-time. I want to write, when it feels right. Starting this blog has been part of that journey, a reminder that I can express myself and share my story on my own terms.
+As I look back, I realize that Toddler Stories is actually just a product of what I like in general: the desire of storytelling. You sometimes read these "I always wanted to be ... since a child". Well. I wanted to be a writer as a child. To this day, I still want to be a writer, though I don't want to pursue writing full-time. I want to write, when it feels right. Starting this blog has been part of that journey, a reminder that I can express myself and share my story on my own terms.
 
 
 ### The Influence of Minimalism
