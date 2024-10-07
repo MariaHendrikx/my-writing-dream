@@ -4,7 +4,7 @@ Why this blog post? I was reflecting on myself as a person and realized how my e
 
 ### The Influence of Minimalism
 
-The name of my first company, 'RedAndWhiteApps,' was my first step towards embracing minimalism, even if I didn't realize it at the time. Using only two colors—red and white—was a way to create something that stood out while avoiding excess. It was, in retrospect, a subconscious nod to the minimalist approach I thrive for today. Now, as I rethink my company’s identity, I want more freedom—a name that captures not just colors, but my drive for simplicity itself. A name that reflects my pursuit of minimalism. (Still searching, by the way!)
+The name of my first company, 'RedAndWhiteApps,' was my first step towards embracing minimalism, even if I didn't realize it at the time. Using only two colors—red and white—was a way to create something that stood out while avoiding excess. It was, in retrospect, a subconscious nod to the minimalist approach. Now, as I rethink my company’s identity, I want more freedom—a name that captures not just colors, but my drive for simplicity itself. A name that reflects my pursuit of minimalism. (Still searching, by the way!)
 
 ### What is a minimalist
 
