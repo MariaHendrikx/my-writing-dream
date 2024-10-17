@@ -1,3 +1,6 @@
+![Learning](https://img.shields.io/badge/Self_Education-8A2BE2)
+![Written by ChatGPT](https://img.shields.io/badge/written_by-ChatGPT-brightgreen)
+
 # What is Accountancy?
 
 Accountancy, often referred to as accounting, is a systematic process of recording, measuring, and communicating financial information about economic entities. This field is essential for business decision-making, financial reporting, and compliance with regulatory requirements. In this blog post, we will explore the definition, importance, branches, and key principles of accountancy.
