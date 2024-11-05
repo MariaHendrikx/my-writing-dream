@@ -1,3 +1,6 @@
+![Learning](https://img.shields.io/badge/Self_Education-8A2BE2)
+![Written by ChatGPT](https://img.shields.io/badge/written_by-ChatGPT-brightgreen)
+
 ### Understanding Load Balancers and VPCs in Cloud Environments
 
 In the world of cloud computing, key concepts like **load balancers** and **Virtual Private Clouds (VPCs)** play a crucial role in building efficient, scalable, and secure applications. Let’s break down these concepts to understand how they work individually and together.

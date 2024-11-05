@@ -1,3 +1,6 @@
+![Learning](https://img.shields.io/badge/Self_Education-8A2BE2)
+![Written by ChatGPT](https://img.shields.io/badge/written_by-ChatGPT-brightgreen)
+
 # Recap of cloud functionalities
 
 Today I am going to write a memo of cloud. Meaning: What is needed when setting up servers, what is common between different cloud providers, what are the things u need?
